@@ -45,12 +45,6 @@ function App() {
           Gere e customize 
           QR Codes <span>dinâmicos</span>
         </h1>
-
-        <img 
-          src="/arrow.svg"
-          alt="detail" 
-          className="arrow-detail"
-        />
       </section>
 
       <section className="qr-code-container">
